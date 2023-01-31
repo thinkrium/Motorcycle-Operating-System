@@ -1,0 +1,8 @@
+# ninja log v5
+2	356	6968729569840538	Application_autogen/timestamp	33842095a39c14cb
+2	356	6968729569840538	Application_autogen/mocs_compilation.cpp	33842095a39c14cb
+2	356	6968729569840538	C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/Application_autogen/timestamp	33842095a39c14cb
+2	356	6968729569840538	C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/Application_autogen/mocs_compilation.cpp	33842095a39c14cb
+357	458	6968729571964389	CMakeFiles/Application.dir/Application_autogen/mocs_compilation.cpp.obj	6c8f0ea2c578b368
+361	2472	6968729592139017	CMakeFiles/Application.dir/main.cpp.obj	556a661584d8f1bf
+2477	2866	6968729594154489	Application.exe	9ea24b236441645e
