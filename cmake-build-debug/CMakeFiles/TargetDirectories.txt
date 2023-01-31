@@ -1,5 +1,4 @@
-C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/CMakeFiles/Application.dir
-C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/CMakeFiles/Application_autogen_timestamp_deps.dir
-C:/Thinkrium/Motors/Motorcycle/Operating System/Application/cmake-build-debug/CMakeFiles/Application_autogen.dir
+/home/thomedy/Thinkrium/Motors/Motorcycles/OS/Motorcycle-Operating-System/cmake-build-debug/CMakeFiles/Application.dir
+/home/thomedy/Thinkrium/Motors/Motorcycles/OS/Motorcycle-Operating-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thomedy/Thinkrium/Motors/Motorcycles/OS/Motorcycle-Operating-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thomedy/Thinkrium/Motors/Motorcycles/OS/Motorcycle-Operating-System/cmake-build-debug/CMakeFiles/Application_autogen.dir

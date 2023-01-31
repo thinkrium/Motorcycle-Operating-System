@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.24)
+cmake_minimum_required(VERSION 3.22.1)
 project(Application)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -6,13 +6,13 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-set(CMAKE_PREFIX_PATH "C:/Qt/6.4.2/mingw_64")
+set(CMAKE_PREFIX_PATH "/home/thomedy/Qt/6.4.2/gcc_64")
 
 find_package(Qt6 COMPONENTS
         Core
         REQUIRED)
 
-add_executable(Application main.cpp)
+add_executable(Application main.cpp Modules/Motor/Sources/Motor.h Modules/Motor/Headers/Motor.cpp)
 target_link_libraries(Application
         Qt::Core
         )
